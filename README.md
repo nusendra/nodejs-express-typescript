@@ -1,6 +1,8 @@
 # nodejs-express-typescript
 Nodejs REST API with ExpressJS and Typescript. MongoDB as database
 
+Edit .env.example to .env and fill the .env file as you wish
+<p>
 If you using yarn<br/>
 <code>yarn install</code>
 
