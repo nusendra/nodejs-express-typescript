@@ -5,6 +5,7 @@ import * as compression from 'compression';
 import * as logger from 'morgan';
 import * as helmet from 'helmet';
 import * as cors from 'cors';
+require('dotenv').config();
 
 // import router
 import UserRouter from './routers/UserRouter';
